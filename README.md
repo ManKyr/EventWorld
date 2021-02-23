@@ -58,7 +58,7 @@ About/Contact Us | Contact us form
 - [x] Successful interface with the Songkick API
 - [x] Successfully load external libraries (Bootstrap / jQuery) 
 
-# ![steps](https://user-images.githubusercontent.com/73962468/104775529-22224100-5781-11eb-94eb-8acd81c736d7.png)
+# ![steps](https://user-images.githubusercontent.com/73081195/108898973-89ed6680-7620-11eb-86bf-7f705f2e6898.jpg)
 
 ## Database Layout 
 ![database_scheme](https://user-images.githubusercontent.com/73081195/103562447-c542a300-4ec3-11eb-9e91-fa4738275f8e.png)
